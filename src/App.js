@@ -23,6 +23,7 @@ const router = createBrowserRouter([
     children:[ 
       /*  path:'/' 대신에 index:true 사용할 수 있다.  */
       //진짠가ㅛㅇ
+      //real
       {path:'/', element:<HomeComponent />},
       {path:'/signup', 
        element:<SignupComponent/>,
