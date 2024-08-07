@@ -1,0 +1,12 @@
+/* #PersonList.css */
+.PersonList {
+    text-align: center;
+    width: 70%;
+    height: 200px;
+    background-color: aqua;
+    margin:auto;
+}
+
+.head {
+    font-weight: bolder; 
+}
